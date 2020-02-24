@@ -575,6 +575,14 @@
             }
         },
         {
+            "Key": "8607487a-a7c7-4383-a56f-6c5beb03965e",
+            "Value": {
+                "id": "a646b725-a749-45b6-9bd2-3f1c58538845",
+                "resourcePath": "sprites\\spr_skull_sans\\spr_skull_sans.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "882f8f99-9a4a-44e4-8eaf-df50cb3a9aed",
             "Value": {
                 "id": "8c9e4d38-8105-408f-aa3f-bfe3928a1890",
