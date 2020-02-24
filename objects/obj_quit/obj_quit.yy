@@ -1,14 +1,14 @@
 {
-    "id": "983a7439-c3a9-4857-8a18-a654f6289ce8",
+    "id": "d2d08ed4-c1d2-44cf-9179-705ee34ba3e8",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_gun",
+    "name": "obj_quit",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "88a673b6-d8e1-42e5-aee9-e21aa64c6392",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "1da93707-a11f-4cd5-a6da-1b37783b6485",
+    "spriteId": "d7ffea5d-a80e-4d4f-b881-c236b3c33925",
     "visible": true
 }

@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "46b1cad1-03fa-4787-9d0a-762cb11817dd",
+            "Value": {
+                "id": "c101fd5f-dcaa-417a-a0d0-b8a7d2b812f9",
+                "resourcePath": "objects\\obj_buttons\\obj_buttons.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "46fd9f9c-ff6d-4b74-b911-792334ad7aad",
             "Value": {
                 "id": "4c07394a-269e-4196-b83b-18da9a32cfa9",
@@ -228,6 +236,14 @@
                 "id": "9b667e06-a267-4d87-bd41-3457ebe7b537",
                 "resourcePath": "sprites\\spr_bullet\\spr_bullet.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "502ed9ab-30cc-4ef5-966f-711e512eaab5",
+            "Value": {
+                "id": "ad00bde8-4e65-4efb-b5fa-94555674c923",
+                "resourcePath": "objects\\obj_startscreen_jet\\obj_startscreen_jet.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -263,11 +279,27 @@
             }
         },
         {
+            "Key": "5baa730f-97e0-4980-b42d-4a5217a7f6d9",
+            "Value": {
+                "id": "c70fc209-b0e8-4869-9151-0af2216a7f09",
+                "resourcePath": "objects\\obj_startscreen_bullet\\obj_startscreen_bullet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5f8a2cba-574e-4c55-9655-9de1b25d43f6",
             "Value": {
                 "id": "5e62c758-0f42-4e68-bae7-99e445369c62",
                 "resourcePath": "views\\5f8a2cba-574e-4c55-9655-9de1b25d43f6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5ff536bd-b039-40ed-ab3b-9230c7f870ef",
+            "Value": {
+                "id": "8236e484-5fb6-4884-976d-957654f045ae",
+                "resourcePath": "objects\\obj_start\\obj_start.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -407,11 +439,27 @@
             }
         },
         {
+            "Key": "cc13b792-4bfd-4b7c-9384-7ac3ed646933",
+            "Value": {
+                "id": "41b2e1be-da7c-4709-a79b-83783c09ac3c",
+                "resourcePath": "objects\\obj_name\\obj_name.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "b10d595a-23da-41c2-8920-f890afea0efe",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cdd4dd91-eb7a-42c0-9ee0-07a7491bda64",
+            "Value": {
+                "id": "ef836a5b-5011-4d3b-8578-ecd038d90e0f",
+                "resourcePath": "objects\\obj_start_menu_ini\\obj_start_menu_ini.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -428,6 +476,14 @@
                 "id": "8584a166-54e8-4159-bbb7-19d246c44182",
                 "resourcePath": "sprites\\spr_jet_short\\spr_jet_short.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d2d08ed4-c1d2-44cf-9179-705ee34ba3e8",
+            "Value": {
+                "id": "d79ed724-01a7-4467-ae48-d1966f13a6d1",
+                "resourcePath": "objects\\obj_quit\\obj_quit.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -460,6 +516,14 @@
                 "id": "1e9bb6da-7bd2-4485-919a-e28d57683e06",
                 "resourcePath": "views\\dc03f502-24ad-4365-88e9-e6cc8ede668d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "df54b12b-a5c6-40b2-ad00-ef47b2cc7fc2",
+            "Value": {
+                "id": "ea8c983a-ad70-4faa-a443-caeb2b69d353",
+                "resourcePath": "objects\\obj_horned_warrior\\obj_horned_warrior.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -500,6 +564,14 @@
                 "id": "956cd67a-4ba4-4bdc-bb2c-14bdee63e95b",
                 "resourcePath": "sprites\\spr_squidydeath\\spr_squidydeath.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "eb8bab6b-3e19-4d1e-9573-9237c6c6e5e8",
+            "Value": {
+                "id": "e8cc8b54-27da-4697-b1dd-01ff6eb4ef6b",
+                "resourcePath": "objects\\obj_startscreen_destroy\\obj_startscreen_destroy.yy",
+                "resourceType": "GMObject"
             }
         },
         {
