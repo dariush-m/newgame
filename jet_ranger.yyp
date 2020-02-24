@@ -447,6 +447,14 @@
             }
         },
         {
+            "Key": "6df7358e-2ad2-442d-a57b-3de3e006ec01",
+            "Value": {
+                "id": "58952c73-cce8-4946-bd36-4959242fa19e",
+                "resourcePath": "sounds\\sound_explosion1\\sound_explosion1.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "6f7a813a-6d80-4945-a764-f8690f2eab5a",
             "Value": {
                 "id": "08435513-e0da-43e0-af0c-b0b4b0da7f94",
