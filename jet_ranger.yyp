@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "2b4311f8-62c1-4bfd-910b-8dbed841ca00",
+            "Value": {
+                "id": "ceded144-98ae-4d4e-bc2d-abb332058682",
+                "resourcePath": "sounds\\music_lvl3_intro\\music_lvl3_intro.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "2da5cc75-50f3-4eb8-90b7-811e91abc134",
             "Value": {
                 "id": "c7a8fc36-cf62-4720-a059-eade0d435de7",
@@ -820,6 +828,14 @@
                 "id": "f3e16a1c-c3c2-4761-9ea1-64cb8471d3ef",
                 "resourcePath": "views\\eb9ec61f-163d-4194-8cb6-f1d9f55ba70a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f1f98cfa-22f5-413a-bd46-20b48b96e83c",
+            "Value": {
+                "id": "32c81c99-8df2-4c7c-a653-7d0089088920",
+                "resourcePath": "sounds\\music_lvl3_loop\\music_lvl3_loop.yy",
+                "resourceType": "GMSound"
             }
         },
         {
