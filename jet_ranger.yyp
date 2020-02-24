@@ -98,7 +98,7 @@
             "Key": "1da93707-a11f-4cd5-a6da-1b37783b6485",
             "Value": {
                 "id": "6ede64be-a60e-4fa8-9f09-806c2160ac46",
-                "resourcePath": "sprites\\spr_sprite3\\spr_sprite3.yy",
+                "resourcePath": "sprites\\spr_ball\\spr_ball.yy",
                 "resourceType": "GMSprite"
             }
         },
