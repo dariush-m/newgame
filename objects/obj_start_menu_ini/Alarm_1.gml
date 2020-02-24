@@ -10,10 +10,11 @@ instance_create_layer(-50, 500, "Instances", obj_startscreen_jet);
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 00FAAE98
-/// @DnDArgument : "code" "joost_dood = true$(13_10)$(13_10)with(instance_create(0, 0, obj_startscreen_destroy))$(13_10){$(13_10)    speed = 18$(13_10)    direction = 0$(13_10)}"
+/// @DnDArgument : "code" "joost_dood = true$(13_10)$(13_10)$(13_10)with(instance_create_layer(0, 0, 1, obj_startscreen_destroy))$(13_10){$(13_10)    speed = 18$(13_10)    direction = 0$(13_10)}"
 joost_dood = true
 
-with(instance_create(0, 0, obj_startscreen_destroy))
+
+with(instance_create_layer(0, 0, 1, obj_startscreen_destroy))
 {
     speed = 18
     direction = 0
