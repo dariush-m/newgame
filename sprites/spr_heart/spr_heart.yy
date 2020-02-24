@@ -2,7 +2,7 @@
     "id": "1f1f4f01-2f30-40d4-992d-3ee1fdcfcf35",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite6",
+    "name": "spr_heart",
     "For3D": false,
     "HTile": false,
     "VTile": false,
