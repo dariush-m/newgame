@@ -18,6 +18,5 @@ thrust += +1;
 /// @DnDVersion : 1.1
 /// @DnDHash : 27228C51
 /// @DnDArgument : "script" "exhaust_change"
-/// @DnDArgument : "arg" "thrust"
 /// @DnDSaveInfo : "script" "6711bb11-6faf-4ab6-942f-14ddca7beedd"
-script_execute(exhaust_change, thrust);
+script_execute(exhaust_change);

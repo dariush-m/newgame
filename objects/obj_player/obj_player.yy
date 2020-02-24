@@ -83,6 +83,16 @@
             "enumb": 40,
             "eventtype": 10,
             "m_owner": "88a673b6-d8e1-42e5-aee9-e21aa64c6392"
+        },
+        {
+            "id": "eefecbc1-620c-4009-9742-63f1fdfaebcb",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "88a673b6-d8e1-42e5-aee9-e21aa64c6392"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -102,20 +112,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": [
-        {
-            "id": "e3aea9c0-1d6d-40af-aff3-d53c7636110f",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "thrust",
-            "varType": 1
-        },
         {
             "id": "06461c65-8ce0-4e5a-9d96-a66ef49d61a6",
             "modelName": "GMObjectProperty",
