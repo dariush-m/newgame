@@ -415,6 +415,14 @@
             }
         },
         {
+            "Key": "5d6c9fa8-84d0-4cde-8bdd-9d0338f39130",
+            "Value": {
+                "id": "cdfb1a69-7c58-4aba-a235-3c8489c944ec",
+                "resourcePath": "scripts\\wave\\wave.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "5ecbdc68-60b2-4810-b88e-5c909d851687",
             "Value": {
                 "id": "94037d7b-e011-4608-998b-f5046a010033",
@@ -468,6 +476,14 @@
                 "id": "19cc297b-6c3c-4744-b10b-d14d42d62141",
                 "resourcePath": "sprites\\spr_skull_blue\\spr_skull_blue.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6711bb11-6faf-4ab6-942f-14ddca7beedd",
+            "Value": {
+                "id": "68be1b32-8ec0-4256-ac3f-80907e1deeb0",
+                "resourcePath": "scripts\\exhaust_change\\exhaust_change.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -904,7 +920,8 @@
         }
     ],
     "script_order": [
-        
+        "5d6c9fa8-84d0-4cde-8bdd-9d0338f39130",
+        "6711bb11-6faf-4ab6-942f-14ddca7beedd"
     ],
     "tutorial": ""
 }
