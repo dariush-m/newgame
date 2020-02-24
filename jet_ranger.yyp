@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "3694540e-dfec-464a-9cfa-181fe763c0e7",
+            "Value": {
+                "id": "69f43aa8-22fb-4bd6-9981-30960f4124c6",
+                "resourcePath": "objects\\obj_return_after_death\\obj_return_after_death.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "37e03fa8-86a3-4530-8cb1-bc489941b097",
             "Value": {
                 "id": "a32b70ac-ce0b-4102-8930-8d40a389d284",
@@ -255,6 +263,14 @@
             }
         },
         {
+            "Key": "3eb815f0-6f40-4410-b6d2-f88d34988c66",
+            "Value": {
+                "id": "1e85ced7-d6c6-4181-b500-e3eee0208c61",
+                "resourcePath": "views\\3eb815f0-6f40-4410-b6d2-f88d34988c66.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "46b1cad1-03fa-4787-9d0a-762cb11817dd",
             "Value": {
                 "id": "c101fd5f-dcaa-417a-a0d0-b8a7d2b812f9",
@@ -276,6 +292,14 @@
                 "id": "cd685f33-b0c0-4907-bc34-baf8ff8193ad",
                 "resourcePath": "sprites\\spr_boss1_death\\spr_boss1_death.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "49210e70-26bc-44b4-ba10-5fcce00e8476",
+            "Value": {
+                "id": "096f3f88-2965-4427-b33f-22ad63bb3019",
+                "resourcePath": "objects\\obj_game_forcequit\\obj_game_forcequit.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -556,6 +580,14 @@
                 "id": "f076dee0-6d95-44ab-aee8-a638ceae24df",
                 "resourcePath": "sprites\\spr_peter\\spr_peter.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b9ee2f40-6ff3-4fc1-985c-13166d313d04",
+            "Value": {
+                "id": "9aeba9a0-0414-44e4-8e93-8f57712b4729",
+                "resourcePath": "objects\\obj_room_settings\\obj_room_settings.yy",
+                "resourceType": "GMObject"
             }
         },
         {
