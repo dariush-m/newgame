@@ -1,4 +1,4 @@
-/// @DnDAction : YoYo Games.Rooms.Next_Room
+/// @DnDAction : YoYo Games.Game.End_Game
 /// @DnDVersion : 1
-/// @DnDHash : 1324DB3A
-room_goto_next();
+/// @DnDHash : 54F24D0A
+game_end();
