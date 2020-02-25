@@ -19,9 +19,11 @@ with(other) instance_destroy();
 /// @DnDArgument : "op" "3"
 if(__dnd_health <= 0)
 {
-	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDAction : YoYo Games.Instances.Change_Instance
 	/// @DnDVersion : 1
-	/// @DnDHash : 3BF1DB8D
+	/// @DnDHash : 1BB508CB
 	/// @DnDParent : 60416433
-	instance_destroy();
+	/// @DnDArgument : "objind" "obj_exploding"
+	/// @DnDSaveInfo : "objind" "c1597ac4-c144-4b3c-ae1e-73d7330fee97"
+	instance_change(obj_exploding, true);
 }
