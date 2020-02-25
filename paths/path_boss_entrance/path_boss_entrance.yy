@@ -5,7 +5,7 @@
     "name": "path_boss_entrance",
     "closed": false,
     "hsnap": 0,
-    "kind": 1,
+    "kind": 0,
     "points": [
         {
             "id": "591d35c6-fb35-472a-89e9-bc30656a7d42",
@@ -19,8 +19,8 @@
             "id": "783d86c7-48b3-4b41-8caa-e19249628220",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 1599.64563,
-            "y": 532.817566,
+            "x": 1671.8,
+            "y": 533,
             "speed": 100
         }
     ],

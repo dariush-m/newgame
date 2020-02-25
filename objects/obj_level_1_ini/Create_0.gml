@@ -38,6 +38,20 @@ boss = false;
 /// @DnDArgument : "var" "win"
 win = false;
 
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 5951D662
+/// @DnDArgument : "expr" """"
+/// @DnDArgument : "var" "message_text"
+message_text = "";
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 32BCAAAB
+/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "var" "message"
+message = false;
+
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1
 /// @DnDHash : 6DD97788

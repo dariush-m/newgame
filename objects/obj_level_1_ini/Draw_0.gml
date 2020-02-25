@@ -20,3 +20,22 @@ draw_set_font(font_pixelated);
 /// @DnDArgument : "caption" ""Time remaining:  ""
 /// @DnDArgument : "var" "time_remaining"
 draw_text(20, 20, string("Time remaining:  ") + string(time_remaining));
+
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 19445299
+/// @DnDArgument : "var" "message"
+/// @DnDArgument : "value" "true"
+if(message == true)
+{
+
+}
+
+/// @DnDAction : YoYo Games.Drawing.Draw_Value
+/// @DnDVersion : 1
+/// @DnDHash : 5316A672
+/// @DnDArgument : "x" "room_width/2"
+/// @DnDArgument : "y" "room_height/2"
+/// @DnDArgument : "caption" ""
+/// @DnDArgument : "var" "message_text"
+draw_text(room_width/2, room_height/2,  + string(message_text));

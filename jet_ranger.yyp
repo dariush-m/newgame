@@ -146,7 +146,7 @@
             "Key": "1873a94c-85db-4692-8b6f-10ada64b9f5c",
             "Value": {
                 "id": "33f89ad0-1219-4336-a7bf-4ba8dbc9b8ce",
-                "resourcePath": "objects\\obj_boss_1_missile\\obj_boss_1_missile.yy",
+                "resourcePath": "objects\\obj_boss_1_laser\\obj_boss_1_laser.yy",
                 "resourceType": "GMObject"
             }
         },

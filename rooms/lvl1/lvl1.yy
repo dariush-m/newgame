@@ -2,7 +2,7 @@
 {
     "name": "lvl1",
     "id": "ed1819cc-1032-4cd3-9f47-b35c0e437318",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
