@@ -2,9 +2,9 @@
 /// @DnDVersion : 1
 /// @DnDHash : 05AE4E2E
 /// @DnDApplyTo : other
-/// @DnDArgument : "objind" "obj_exploding"
+/// @DnDArgument : "objind" "obj_smallexploding"
 /// @DnDSaveInfo : "objind" "c1597ac4-c144-4b3c-ae1e-73d7330fee97"
-with(other) instance_change(obj_exploding, true);
+with(other) instance_change(obj_smallexploding, true);
 
 /// @DnDAction : YoYo Games.Instance Variables.Set_Lives
 /// @DnDVersion : 1

@@ -834,7 +834,7 @@
             "Key": "c1597ac4-c144-4b3c-ae1e-73d7330fee97",
             "Value": {
                 "id": "83bc6847-4b77-4a09-9f8a-9a970fe3eccb",
-                "resourcePath": "objects\\obj_exploding\\obj_exploding.yy",
+                "resourcePath": "objects\\obj_smallexploding\\obj_smallexploding.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1036,6 +1036,14 @@
                 "id": "f3e16a1c-c3c2-4761-9ea1-64cb8471d3ef",
                 "resourcePath": "views\\eb9ec61f-163d-4194-8cb6-f1d9f55ba70a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ec8aea09-243b-48b3-b129-16cbd908382a",
+            "Value": {
+                "id": "0be04f0f-bd3c-431c-a7d3-1e298492f352",
+                "resourcePath": "sprites\\spr_smallexplosion\\spr_smallexplosion.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

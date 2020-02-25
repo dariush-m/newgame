@@ -2,7 +2,7 @@
     "id": "c1597ac4-c144-4b3c-ae1e-73d7330fee97",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_exploding",
+    "name": "obj_smallexploding",
     "eventList": [
         {
             "id": "8b558582-8154-40ba-9592-65450f060a10",
@@ -43,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "e0b77881-e9ba-446c-b513-a3d5b80bcdef",
+    "spriteId": "ec8aea09-243b-48b3-b129-16cbd908382a",
     "visible": true
 }

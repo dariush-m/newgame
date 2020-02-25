@@ -23,7 +23,7 @@ if(__dnd_health <= 0)
 	/// @DnDVersion : 1
 	/// @DnDHash : 1BB508CB
 	/// @DnDParent : 60416433
-	/// @DnDArgument : "objind" "obj_exploding"
+	/// @DnDArgument : "objind" "obj_smallexploding"
 	/// @DnDSaveInfo : "objind" "c1597ac4-c144-4b3c-ae1e-73d7330fee97"
-	instance_change(obj_exploding, true);
+	instance_change(obj_smallexploding, true);
 }
