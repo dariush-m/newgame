@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "33d8acc4-131e-4ab4-a5b0-d05df72cdf1f",
+            "Value": {
+                "id": "5bf11d9e-2ba1-4a92-acb8-dd79d56781f2",
+                "resourcePath": "sprites\\bg_glacial1\\bg_glacial1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "34543f38-33db-43bb-ae70-085b627ee8d8",
             "Value": {
                 "id": "f2bd2a89-6062-4e43-8ebb-fa3b9de537b4",
@@ -275,6 +283,14 @@
             "Value": {
                 "id": "a32b70ac-ce0b-4102-8930-8d40a389d284",
                 "resourcePath": "views\\37e03fa8-86a3-4530-8cb1-bc489941b097.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "380aed0d-e5a6-4675-af61-c77acadff8b5",
+            "Value": {
+                "id": "fd5ce8a3-81f9-4e1d-84a9-bca0a01f1af2",
+                "resourcePath": "views\\380aed0d-e5a6-4675-af61-c77acadff8b5.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -679,6 +695,14 @@
             }
         },
         {
+            "Key": "8e07dad9-d637-49b3-9d32-17e505d6422a",
+            "Value": {
+                "id": "0d3299f8-3884-4bda-8d70-8c6180c95757",
+                "resourcePath": "rooms\\lvl2\\lvl2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "8e246ae7-3520-4f40-ae3d-9ddc9ebb002e",
             "Value": {
                 "id": "4b0e6c8b-627a-4dc2-963e-f3be2839949c",
@@ -740,6 +764,14 @@
                 "id": "e3a894f1-d783-4cfb-829c-7a92ada25cde",
                 "resourcePath": "objects\\obj_level_3_ni\\obj_level_3_ni.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9e9a9ca5-75b9-4184-b4dc-87ff123eae4b",
+            "Value": {
+                "id": "a8a57b35-0fe1-4918-a407-b8dea02690b6",
+                "resourcePath": "sprites\\bg_glacial5\\bg_glacial5.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -815,6 +847,14 @@
             }
         },
         {
+            "Key": "b892927e-f8ad-41d0-a3b5-cfbd4eabd15e",
+            "Value": {
+                "id": "a4751ccf-3dfc-4547-8bbd-68b2020f7d69",
+                "resourcePath": "sprites\\bg_glacial2\\bg_glacial2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b8fa5f22-42c0-4eb1-b87d-bb67cac70f8c",
             "Value": {
                 "id": "0612c00b-e27f-428a-a97f-4fd9534c5964",
@@ -852,6 +892,14 @@
                 "id": "d0ca43be-2050-4565-baf9-ba39dff2d735",
                 "resourcePath": "sounds\\music_mainmenu\\music_mainmenu.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "c3942d3c-c62d-48d1-bf8d-6d04a75a69cc",
+            "Value": {
+                "id": "a844bb44-aeb2-4bfe-9813-a9592e62e4bf",
+                "resourcePath": "sprites\\bg_glacial3\\bg_glacial3.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -895,6 +943,14 @@
             }
         },
         {
+            "Key": "cf180a4d-eacc-44d2-b107-909a51510330",
+            "Value": {
+                "id": "e379dac2-19a5-4baf-aad5-4e13a7a59b3c",
+                "resourcePath": "sprites\\bg_glacial4\\bg_glacial4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cf3fdcdd-2899-4a79-9c5b-11ed070db99a",
             "Value": {
                 "id": "b6b20fd2-a10c-4e65-bcc3-0990b1f78843",
@@ -916,6 +972,14 @@
                 "id": "d79ed724-01a7-4467-ae48-d1966f13a6d1",
                 "resourcePath": "objects\\obj_quit\\obj_quit.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d56ebcd7-4b10-4d45-8855-d3b28896b2ff",
+            "Value": {
+                "id": "997786f9-49c1-437b-8d58-e6a735cdc136",
+                "resourcePath": "sprites\\bg_glacial6\\bg_glacial6.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1116,6 +1180,14 @@
                 "id": "97c07095-8a97-4f4a-bc03-2d50cc8654ac",
                 "resourcePath": "views\\fae49902-f4f7-4fde-963a-9aebf8d84a4c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fb95c13c-b5cc-49de-8fcd-9d7925298566",
+            "Value": {
+                "id": "b677ca11-d06f-45eb-9de7-2197e1b50f6e",
+                "resourcePath": "sprites\\bg_glacial7\\bg_glacial7.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
