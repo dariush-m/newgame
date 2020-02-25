@@ -63,9 +63,9 @@ if(boss == true)
 	/// @DnDVersion : 1
 	/// @DnDHash : 6756C062
 	/// @DnDParent : 490E41FD
-	/// @DnDArgument : "var" "boss_dead"
+	/// @DnDArgument : "var" "he_dead"
 	/// @DnDArgument : "value" "false"
-	if(boss_dead == false)
+	if(he_dead == false)
 	{
 		/// @DnDAction : YoYo Games.Drawing.Draw_Value
 		/// @DnDVersion : 1
@@ -114,8 +114,8 @@ if(boss == true)
 		/// @DnDHash : 5156609B
 		/// @DnDParent : 03091AF1
 		/// @DnDArgument : "x" "room_width/2"
-		/// @DnDArgument : "y" "room_height/2+20"
+		/// @DnDArgument : "y" "room_height/2+40"
 		/// @DnDArgument : "caption" ""PRESS ENTER TO CONTINUE""
-		draw_text(room_width/2, room_height/2+20, string("PRESS ENTER TO CONTINUE") + "");
+		draw_text(room_width/2, room_height/2+40, string("PRESS ENTER TO CONTINUE") + "");
 	}
 }

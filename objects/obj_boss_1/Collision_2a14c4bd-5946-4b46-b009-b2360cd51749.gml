@@ -19,13 +19,13 @@ __dnd_health += real(-0.5);
 if(!variable_instance_exists(id, "__dnd_health")) __dnd_health = 0;
 if(__dnd_health <= 0)
 {
-	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDAction : YoYo Games.Common.Set_Global
 	/// @DnDVersion : 1
-	/// @DnDHash : 63B5234A
+	/// @DnDHash : 1C4E456C
 	/// @DnDParent : 11741864
-	/// @DnDArgument : "expr" "true"
+	/// @DnDArgument : "value" "true"
 	/// @DnDArgument : "var" "boss_dead"
-	boss_dead = true;
+	global.boss_dead = true;
 
 	/// @DnDAction : YoYo Games.Instances.Set_Alarm
 	/// @DnDVersion : 1

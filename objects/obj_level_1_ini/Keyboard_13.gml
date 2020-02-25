@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
 /// @DnDHash : 2C74C460
-/// @DnDArgument : "var" "boss_dead"
+/// @DnDArgument : "var" "he_dead"
 /// @DnDArgument : "value" "true"
-if(boss_dead == true)
+if(he_dead == true)
 {
 	/// @DnDAction : YoYo Games.Rooms.Next_Room
 	/// @DnDVersion : 1

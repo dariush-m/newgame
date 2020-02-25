@@ -52,12 +52,12 @@ message = false;
 /// @DnDArgument : "var" "message_text"
 message_text = "";
 
-/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1
-/// @DnDHash : 51922FB1
-/// @DnDArgument : "expr" "false"
+/// @DnDHash : 69B4C2B3
+/// @DnDArgument : "value" "false"
 /// @DnDArgument : "var" "boss_dead"
-boss_dead = false;
+global.boss_dead = false;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
