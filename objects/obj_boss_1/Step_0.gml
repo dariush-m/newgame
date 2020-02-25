@@ -118,5 +118,13 @@ if(img_temp == 20)
 		/// @DnDArgument : "layer" ""boss""
 		/// @DnDSaveInfo : "objectid" "1873a94c-85db-4692-8b6f-10ada64b9f5c"
 		instance_create_layer(x + -80, y + -140, "boss", obj_boss_1_laser);
+	
+		/// @DnDAction : YoYo Games.Audio.Play_Audio
+		/// @DnDVersion : 1
+		/// @DnDHash : 3605A5A6
+		/// @DnDParent : 318E437A
+		/// @DnDArgument : "soundid" "sound_laser"
+		/// @DnDSaveInfo : "soundid" "0bc2bf78-d334-4e09-8523-e5cfe4072f11"
+		audio_play_sound(sound_laser, 0, 0);
 	}
 }

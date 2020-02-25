@@ -23,9 +23,9 @@ draw_set_font(font_pixelated);
 /// @DnDHash : 38B51534
 /// @DnDArgument : "x" "room_width"
 /// @DnDArgument : "y" "20"
-/// @DnDArgument : "caption" ""Boss Countdown:  ""
+/// @DnDArgument : "caption" ""Time remaining:  ""
 /// @DnDArgument : "var" "time_remaining"
-draw_text(room_width, 20, string("Boss Countdown:  ") + string(time_remaining));
+draw_text(room_width, 20, string("Time remaining:  ") + string(time_remaining));
 
 /// @DnDAction : YoYo Games.Drawing.Set_Alignment
 /// @DnDVersion : 1.1

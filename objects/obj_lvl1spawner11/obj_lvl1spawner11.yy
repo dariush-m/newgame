@@ -1,8 +1,8 @@
 {
-    "id": "8b28bc7e-58cc-4303-a8d9-22f8bc1d60e8",
+    "id": "df5f9d4d-a7b8-44de-a5e2-fa3d57a7f37d",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_spawner3",
+    "name": "obj_lvl1spawner11",
     "eventList": [
         
     ],

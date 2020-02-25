@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "0bc2bf78-d334-4e09-8523-e5cfe4072f11",
+            "Value": {
+                "id": "a3bab545-f534-4718-8726-a68c02d70c56",
+                "resourcePath": "sounds\\sound_laser\\sound_laser.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "0c715670-2169-4ae8-80c9-123d4c0111d1",
             "Value": {
                 "id": "496464b1-9b5f-4926-96a5-75395c3509cc",
@@ -308,6 +316,14 @@
                 "id": "520e5da0-9063-494e-b56a-835814692521",
                 "resourcePath": "rooms\\main_menu\\main_menu.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "3a28ed00-f2c9-4e92-8cd3-9173c1c475da",
+            "Value": {
+                "id": "39efa5e5-b65b-46d1-8971-c18a5edefae0",
+                "resourcePath": "objects\\obj_level_2_ini1\\obj_level_2_ini1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -674,7 +690,7 @@
             "Key": "8b28bc7e-58cc-4303-a8d9-22f8bc1d60e8",
             "Value": {
                 "id": "b2215a6b-42f1-495e-8943-ead2f860de35",
-                "resourcePath": "objects\\obj_spawner3\\obj_spawner3.yy",
+                "resourcePath": "objects\\obj_lvl1spawner3\\obj_lvl1spawner3.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -690,7 +706,7 @@
             "Key": "8df75a7c-c1fa-4db6-8622-dccf6e397411",
             "Value": {
                 "id": "dd6cd7de-bc4c-4de9-8f61-0c757b815da2",
-                "resourcePath": "objects\\obj_spawner2\\obj_spawner2.yy",
+                "resourcePath": "objects\\obj_lvl1spawner2\\obj_lvl1spawner2.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -810,7 +826,7 @@
             "Key": "a9f38cbd-a308-4799-afec-4f1b31fab321",
             "Value": {
                 "id": "5ff18bde-ef5a-4ae4-b393-2afa07ce3ea2",
-                "resourcePath": "objects\\obj_spawner1\\obj_spawner1.yy",
+                "resourcePath": "objects\\obj_lvl1spawner1\\obj_lvl1spawner1.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -820,14 +836,6 @@
                 "id": "57970de9-e3e7-4177-a5aa-d659a666ab44",
                 "resourcePath": "sprites\\spr_boss1_fire\\spr_boss1_fire.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "acdd2494-233b-41e4-a8d5-cd644d4ed70f",
-            "Value": {
-                "id": "bb3caafe-73b3-466e-94e8-796d6dd562e3",
-                "resourcePath": "objects\\obj_level_2_ini\\obj_level_2_ini.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -900,14 +908,6 @@
                 "id": "a844bb44-aeb2-4bfe-9813-a9592e62e4bf",
                 "resourcePath": "sprites\\bg_glacial3\\bg_glacial3.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "c8b3453a-d137-47ed-8edf-44edf5b118bc",
-            "Value": {
-                "id": "8eb97011-e858-4b3d-9d04-620543900f34",
-                "resourcePath": "objects\\obj_gun_boss_2\\obj_gun_boss_2.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -1047,6 +1047,14 @@
             }
         },
         {
+            "Key": "df5f9d4d-a7b8-44de-a5e2-fa3d57a7f37d",
+            "Value": {
+                "id": "27127186-dccc-4db7-8acc-ebccf25c7abf",
+                "resourcePath": "objects\\obj_lvl1spawner11\\obj_lvl1spawner11.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "df7540c0-fc0f-4525-b6db-d416e5660d90",
             "Value": {
                 "id": "916e69b5-6585-4661-9605-763de7c0f2a0",
@@ -1167,14 +1175,6 @@
             }
         },
         {
-            "Key": "f71bac09-118d-4c69-826e-57eaba3843f9",
-            "Value": {
-                "id": "1b4dcc54-d26d-4395-9e99-ea8823463b41",
-                "resourcePath": "objects\\obj_gun_peter\\obj_gun_peter.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "fae49902-f4f7-4fde-963a-9aebf8d84a4c",
             "Value": {
                 "id": "97c07095-8a97-4f4a-bc03-2d50cc8654ac",
@@ -1196,14 +1196,6 @@
                 "id": "6d8badf5-aebe-451d-af5d-052c16762e66",
                 "resourcePath": "sounds\\sound_welcome\\sound_welcome.yy",
                 "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "ffa3d047-2d28-4476-a7e3-9ca75b3fcb89",
-            "Value": {
-                "id": "366c4231-9dcf-4c10-bbb1-e9df95b55c01",
-                "resourcePath": "objects\\obj_boss_gun\\obj_boss_gun.yy",
-                "resourceType": "GMObject"
             }
         }
     ],

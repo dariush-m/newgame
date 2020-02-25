@@ -2,7 +2,7 @@
     "id": "a9f38cbd-a308-4799-afec-4f1b31fab321",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_spawner1",
+    "name": "obj_lvl1spawner1",
     "eventList": [
         
     ],

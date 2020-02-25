@@ -25,7 +25,7 @@ if(rand_int == 1)
 	/// @DnDArgument : "objectid" "obj_sans"
 	/// @DnDArgument : "layer" ""enemies""
 	/// @DnDSaveInfo : "objectid" "8cc3aba6-f084-4951-aa1c-3cd338cb3ce0"
-	with(obj_lvl1spawner1) {
+	with(obj_spawner1) {
 		instance_create_layer(x + 0, y + 0, "enemies", obj_sans); 
 	}
 }
@@ -47,7 +47,7 @@ if(rand_int == 2)
 	/// @DnDArgument : "objectid" "obj_sans"
 	/// @DnDArgument : "layer" ""enemies""
 	/// @DnDSaveInfo : "objectid" "8cc3aba6-f084-4951-aa1c-3cd338cb3ce0"
-	with(obj_lvl1spawner2) {
+	with(obj_spawner2) {
 		instance_create_layer(x + 0, y + 0, "enemies", obj_sans); 
 	}
 }
@@ -69,7 +69,7 @@ if(rand_int == 3)
 	/// @DnDArgument : "objectid" "obj_sans"
 	/// @DnDArgument : "layer" ""enemies""
 	/// @DnDSaveInfo : "objectid" "8cc3aba6-f084-4951-aa1c-3cd338cb3ce0"
-	with(obj_lvl1spawner3) {
+	with(obj_spawner3) {
 		instance_create_layer(x + 0, y + 0, "enemies", obj_sans); 
 	}
 }
