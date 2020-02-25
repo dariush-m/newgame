@@ -1,3 +1,15 @@
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 10A84ED4
+/// @DnDArgument : "var" "x_boss"
+global.x_boss = 0;
+
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 6FF971ED
+/// @DnDArgument : "var" "y_boss"
+global.y_boss = 0;
+
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 24681D24
@@ -48,9 +60,9 @@ message = false;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 648A9478
-/// @DnDArgument : "expr" """"
+/// @DnDArgument : "expr" "" ""
 /// @DnDArgument : "var" "message_text"
-message_text = "";
+message_text = " ";
 
 /// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1

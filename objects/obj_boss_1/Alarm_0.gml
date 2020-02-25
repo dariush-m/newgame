@@ -16,8 +16,9 @@ audio_play_sound(sound_explosion2, 0, 0);
 /// @DnDVersion : 1
 /// @DnDHash : 1F1F25BE
 /// @DnDArgument : "soundid" "music_victory"
+/// @DnDArgument : "loop" "1"
 /// @DnDSaveInfo : "soundid" "4fc70758-313d-4486-890e-b76d9190e340"
-audio_play_sound(music_victory, 0, 0);
+audio_play_sound(music_victory, 0, 1);
 
 /// @DnDAction : YoYo Games.Instances.Change_Instance
 /// @DnDVersion : 1

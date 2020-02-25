@@ -39,6 +39,6 @@ message_text = "Foolish humans. Your ressistance is futile";
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 3A720B1B
-/// @DnDArgument : "steps" "180"
+/// @DnDArgument : "steps" "60*5"
 /// @DnDArgument : "alarm" "2"
-alarm_set(2, 180);
+alarm_set(2, 60*5);

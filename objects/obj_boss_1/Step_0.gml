@@ -1,3 +1,17 @@
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 1D831711
+/// @DnDArgument : "value" "x"
+/// @DnDArgument : "var" "x_boss"
+global.x_boss = x;
+
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 5CA1D10F
+/// @DnDArgument : "value" "y"
+/// @DnDArgument : "var" "y_boss"
+global.y_boss = y;
+
 /// @DnDAction : YoYo Games.Paths.Get_Path_Position
 /// @DnDVersion : 1
 /// @DnDHash : 7D9C56F7
