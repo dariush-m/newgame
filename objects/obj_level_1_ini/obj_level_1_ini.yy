@@ -50,7 +50,7 @@
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
+            "enumb": 64,
             "eventtype": 8,
             "m_owner": "2a4d6773-21ac-46fd-8b00-e62507bb00fa"
         },
@@ -62,6 +62,16 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 10,
             "eventtype": 7,
+            "m_owner": "2a4d6773-21ac-46fd-8b00-e62507bb00fa"
+        },
+        {
+            "id": "7e20c80c-14f2-4b96-8d85-4074ced6009a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 13,
+            "eventtype": 5,
             "m_owner": "2a4d6773-21ac-46fd-8b00-e62507bb00fa"
         }
     ],

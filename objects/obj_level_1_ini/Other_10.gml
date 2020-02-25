@@ -5,6 +5,13 @@
 /// @DnDArgument : "var" "boss"
 boss = true;
 
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 05634C97
+/// @DnDArgument : "expr" "true"
+/// @DnDArgument : "var" "boss_spawned"
+boss_spawned = true;
+
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 1AC36729

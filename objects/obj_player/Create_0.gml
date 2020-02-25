@@ -9,3 +9,10 @@ thrust = 0;
 /// @DnDHash : 435DAB9E
 /// @DnDArgument : "var" "hit"
 hit = 0;
+
+/// @DnDAction : YoYo Games.Instance Variables.Set_Lives
+/// @DnDVersion : 1
+/// @DnDHash : 56F57C48
+/// @DnDArgument : "lives" "5"
+
+__dnd_lives = real(5);

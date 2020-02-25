@@ -54,10 +54,17 @@ message_text = "";
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 32BCAAAB
-/// @DnDArgument : "expr" "30"
-/// @DnDArgument : "var" "hp_bar_height"
-hp_bar_height = 30;
+/// @DnDHash : 51922FB1
+/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "var" "boss_dead"
+boss_dead = false;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 77D94C09
+/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "var" "boss_spawned"
+boss_spawned = false;
 
 /// @DnDAction : YoYo Games.Audio.Stop_Audio
 /// @DnDVersion : 1

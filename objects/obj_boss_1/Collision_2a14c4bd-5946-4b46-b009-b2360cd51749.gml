@@ -19,9 +19,18 @@ __dnd_health += real(-0.5);
 if(!variable_instance_exists(id, "__dnd_health")) __dnd_health = 0;
 if(__dnd_health <= 0)
 {
-	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
-	/// @DnDHash : 77ADC39F
+	/// @DnDHash : 63B5234A
 	/// @DnDParent : 11741864
-	instance_destroy();
+	/// @DnDArgument : "expr" "true"
+	/// @DnDArgument : "var" "boss_dead"
+	boss_dead = true;
+
+	/// @DnDAction : YoYo Games.Instances.Set_Alarm
+	/// @DnDVersion : 1
+	/// @DnDHash : 276CD3AC
+	/// @DnDParent : 11741864
+	/// @DnDArgument : "steps" "1"
+	alarm_set(0, 1);
 }

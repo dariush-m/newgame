@@ -1023,6 +1023,14 @@
             }
         },
         {
+            "Key": "f11b7231-99b1-4949-86d1-b9ada09652fc",
+            "Value": {
+                "id": "99515eb3-d07f-46fe-9710-6fc1295e0b9a",
+                "resourcePath": "objects\\obj_playerlifes\\obj_playerlifes.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f1f98cfa-22f5-413a-bd46-20b48b96e83c",
             "Value": {
                 "id": "32c81c99-8df2-4c7c-a653-7d0089088920",
