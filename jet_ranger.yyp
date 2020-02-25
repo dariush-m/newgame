@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "18331241-97a6-40b3-9231-b8bcdbc4fb7d",
+            "Value": {
+                "id": "936951a0-1ced-4cd9-9732-9a179e4850a7",
+                "resourcePath": "sounds\\music_meg\\music_meg.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "1873a94c-85db-4692-8b6f-10ada64b9f5c",
             "Value": {
                 "id": "33f89ad0-1219-4336-a7bf-4ba8dbc9b8ce",
@@ -183,14 +191,6 @@
             }
         },
         {
-            "Key": "21042ccc-4870-44cf-af4f-3aa6e9e05393",
-            "Value": {
-                "id": "b8d21be3-d656-48ed-abe6-f4cd45635132",
-                "resourcePath": "views\\21042ccc-4870-44cf-af4f-3aa6e9e05393.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "24efcb07-af6e-4c40-8e23-c16d64fa2f10",
             "Value": {
                 "id": "7d918802-0840-4673-87da-c198925d0a5b",
@@ -204,14 +204,6 @@
                 "id": "27ac365d-b7fb-4c17-a09c-8571a5a17a4c",
                 "resourcePath": "views\\272e6149-c53c-459c-9b2f-b28c9102d85d.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "28f91429-5fd0-426c-a134-8ee9f17557e6",
-            "Value": {
-                "id": "61646507-60ec-4660-8ba7-de0caface843",
-                "resourcePath": "objects\\obj_exhaustchanger0\\obj_exhaustchanger0.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -327,14 +319,6 @@
             }
         },
         {
-            "Key": "46d260b1-14a5-4dfa-bab1-d3d95ee88af4",
-            "Value": {
-                "id": "c1768c29-5051-4e86-a67f-ffd4584c8179",
-                "resourcePath": "fonts\\font_pixelated1\\font_pixelated1.yy",
-                "resourceType": "GMFont"
-            }
-        },
-        {
             "Key": "46fd9f9c-ff6d-4b74-b911-792334ad7aad",
             "Value": {
                 "id": "4c07394a-269e-4196-b83b-18da9a32cfa9",
@@ -420,14 +404,6 @@
                 "id": "d947cfab-ac40-4cab-986c-ed57735160ba",
                 "resourcePath": "views\\507a0632-ba9a-4baa-862f-e6e99bfd5bbf.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "5237ac50-3a27-4870-9556-4d56de2621d0",
-            "Value": {
-                "id": "ca8fd6a0-ee4f-41ff-a931-33f0d5bc0c3a",
-                "resourcePath": "objects\\obj_exhaustchanger2\\obj_exhaustchanger2.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -1011,14 +987,6 @@
             "Value": {
                 "id": "1b4dcc54-d26d-4395-9e99-ea8823463b41",
                 "resourcePath": "objects\\obj_gun_peter\\obj_gun_peter.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "f9ba94e7-f76a-4776-9297-3d87200db3c5",
-            "Value": {
-                "id": "77c8c89c-7829-440e-b603-c57402b3a000",
-                "resourcePath": "objects\\obj_exhaustchanger1\\obj_exhaustchanger1.yy",
                 "resourceType": "GMObject"
             }
         },

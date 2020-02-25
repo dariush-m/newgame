@@ -7,8 +7,6 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "06c5996d-187e-4c8b-bfeb-da9a0710bb95",
-        "9da82fdb-6f42-4cb2-9db0-c5a2ec813d06",
         "723ec81a-40a0-4f35-ad54-90e4123769de",
         "eb145f09-5033-4d74-a6a6-f6ae40f16199",
         "d951bb4d-ef1c-4d15-adaf-c357b610dfa1",
@@ -19,13 +17,15 @@
         "8b9d019a-85fa-4489-9ff8-08e46446fbb3",
         "4e3d8cd8-1170-4558-b26c-1f9a0a498e06",
         "8f10bdcb-7f7f-4806-b3a0-fea223e17fe3",
-        "1cd5b610-335d-4be1-aebd-25c505247b64"
+        "1cd5b610-335d-4be1-aebd-25c505247b64",
+        "3036fb69-d076-4a33-8ce9-c678d5b3513f",
+        "950587a8-3e5c-4203-b5ec-49aa8727292e"
     ],
     "IsDnD": true,
     "layers": [
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Instances",
+            "name": "enemies",
             "id": "5cb7f875-af4c-44e6-a1ca-dd0408bc8dce",
             "depth": 0,
             "grid_x": 32,
@@ -37,8 +37,6 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_61E1520A","id": "06c5996d-187e-4c8b-bfeb-da9a0710bb95","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_61E1520A","objId": "88a673b6-d8e1-42e5-aee9-e21aa64c6392","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 224,"y": 544},
-{"name": "inst_501CCDA1","id": "9da82fdb-6f42-4cb2-9db0-c5a2ec813d06","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_501CCDA1","objId": "983a7439-c3a9-4857-8a18-a654f6289ce8","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 231,"y": 559},
 {"name": "inst_4A8FEF91","id": "723ec81a-40a0-4f35-ad54-90e4123769de","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_4A8FEF91","objId": "a9f38cbd-a308-4799-afec-4f1b31fab321","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1105,"y": -28},
 {"name": "inst_6A194EA7","id": "eb145f09-5033-4d74-a6a6-f6ae40f16199","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_6A194EA7","objId": "a9f38cbd-a308-4799-afec-4f1b31fab321","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1953,"y": 173},
 {"name": "inst_38AE5D95","id": "d951bb4d-ef1c-4d15-adaf-c357b610dfa1","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_38AE5D95","objId": "a9f38cbd-a308-4799-afec-4f1b31fab321","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1448,"y": 1109},
@@ -62,13 +60,40 @@
             "visible": true
         },
         {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "player",
+            "id": "5cd7dc11-c125-41cf-b2e5-c89ed60944fc",
+            "depth": 100,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "instances": [
+{"name": "inst_6D06B3B2","id": "3036fb69-d076-4a33-8ce9-c678d5b3513f","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_6D06B3B2","objId": "88a673b6-d8e1-42e5-aee9-e21aa64c6392","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 222,"y": 544},
+{"name": "inst_19E3C8E6","id": "950587a8-3e5c-4203-b5ec-49aa8727292e","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_19E3C8E6","objId": "983a7439-c3a9-4857-8a18-a654f6289ce8","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 231,"y": 560}
+            ],
+            "layers": [
+
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "userdefined_depth": false,
+            "visible": true
+        },
+        {
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Background",
             "id": "dde6ff00-393e-403b-9988-5df819fc98a9",
             "animationFPS": 15,
             "animationSpeedType": "0",
             "colour": { "Value": 4294967295 },
-            "depth": 100,
+            "depth": 200,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
