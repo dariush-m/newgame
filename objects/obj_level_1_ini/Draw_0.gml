@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Drawing.Set_Color
+/// @DnDVersion : 1
+/// @DnDHash : 10E3633E
+/// @DnDArgument : "color" "$FFBC14FF"
+/// @DnDArgument : "alpha" "false"
+draw_set_colour($FFBC14FF & $ffffff);
+
 /// @DnDAction : YoYo Games.Drawing.Set_Font
 /// @DnDVersion : 1
 /// @DnDHash : 7F85BD63
@@ -8,8 +15,8 @@ draw_set_font(font_pixelated);
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
 /// @DnDHash : 38B51534
-/// @DnDArgument : "x" "10"
-/// @DnDArgument : "y" "10"
+/// @DnDArgument : "x" "20"
+/// @DnDArgument : "y" "20"
 /// @DnDArgument : "caption" ""Time remaining:  ""
 /// @DnDArgument : "var" "time_remaining"
-draw_text(10, 10, string("Time remaining:  ") + string(time_remaining));
+draw_text(20, 20, string("Time remaining:  ") + string(time_remaining));

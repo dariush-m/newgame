@@ -327,6 +327,14 @@
             }
         },
         {
+            "Key": "46d260b1-14a5-4dfa-bab1-d3d95ee88af4",
+            "Value": {
+                "id": "c1768c29-5051-4e86-a67f-ffd4584c8179",
+                "resourcePath": "fonts\\font_pixelated1\\font_pixelated1.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "46fd9f9c-ff6d-4b74-b911-792334ad7aad",
             "Value": {
                 "id": "4c07394a-269e-4196-b83b-18da9a32cfa9",
