@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "0ee8903a-a765-4b79-8fcf-c19e6b2933b0",
+            "Value": {
+                "id": "77768099-60a6-45cb-a352-4d8db973a547",
+                "resourcePath": "sprites\\bg_mountains3\\bg_mountains3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0fb15eaa-e447-48de-a73d-afbfc59870cf",
             "Value": {
                 "id": "54b4cb9f-f74f-4ff9-b1cf-a5e0edc6612d",
@@ -311,6 +319,14 @@
             }
         },
         {
+            "Key": "3fb0e01c-064e-44f4-b027-eaf5fa24c03d",
+            "Value": {
+                "id": "42703d81-0264-4bcd-9794-da965245f836",
+                "resourcePath": "views\\3fb0e01c-064e-44f4-b027-eaf5fa24c03d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "46b1cad1-03fa-4787-9d0a-762cb11817dd",
             "Value": {
                 "id": "c101fd5f-dcaa-417a-a0d0-b8a7d2b812f9",
@@ -351,6 +367,14 @@
             }
         },
         {
+            "Key": "4b06141a-fc58-488d-9b24-d618f78391f2",
+            "Value": {
+                "id": "267c8d44-b8fb-4659-8a40-b637cb0128be",
+                "resourcePath": "sprites\\bg_mountains5\\bg_mountains5.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4ba3d5ac-03e1-4812-8352-7f6154730a5d",
             "Value": {
                 "id": "7528d9ef-f51c-4953-94e7-2de59d9695f1",
@@ -364,6 +388,14 @@
                 "id": "85b4d46e-5a85-4c3e-b136-8d8b21966423",
                 "resourcePath": "objects\\obj_green\\obj_green.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4e87b8ae-2eff-47bf-934a-7075b908b0c5",
+            "Value": {
+                "id": "0ea52d4d-8b4e-402a-b39d-b1c778123e97",
+                "resourcePath": "sprites\\bg_mountains1\\bg_mountains1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -436,6 +468,14 @@
                 "id": "cdfb1a69-7c58-4aba-a235-3c8489c944ec",
                 "resourcePath": "scripts\\wave\\wave.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "5e8ae2d5-0745-41eb-a975-4ba551cdff62",
+            "Value": {
+                "id": "ff095cbe-2ffb-422c-bca8-ef23d5663da3",
+                "resourcePath": "sprites\\bg_mountains4\\bg_mountains4.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -876,6 +916,14 @@
                 "id": "72172379-1797-4cc8-a047-4d719682d26b",
                 "resourcePath": "views\\d93bba01-fc35-493e-946d-15f9f6b6eacb.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "daa57d7b-0233-4ac8-bbb8-27f7a8413d3f",
+            "Value": {
+                "id": "ba460977-2748-48a4-87c2-cb7f0e151c91",
+                "resourcePath": "sprites\\bg_mountains2\\bg_mountains2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

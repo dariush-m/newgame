@@ -25,3 +25,10 @@ shooting = false;
 /// @DnDArgument : "expr" "image_index"
 /// @DnDArgument : "var" "img_temp"
 img_temp = image_index;
+
+/// @DnDAction : YoYo Games.Instance Variables.Set_Health
+/// @DnDVersion : 1
+/// @DnDHash : 277FFD12
+/// @DnDArgument : "health" "100"
+
+__dnd_health = real(100);

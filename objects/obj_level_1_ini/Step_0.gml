@@ -1,5 +1,12 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
+/// @DnDHash : 747260E6
+/// @DnDArgument : "expr" "wave(40,30,2,0)"
+/// @DnDArgument : "var" "hp_bar_height"
+hp_bar_height = wave(40,30,2,0);
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
 /// @DnDHash : 35BD9322
 /// @DnDArgument : "expr" "+1"
 /// @DnDArgument : "expr_relative" "1"
