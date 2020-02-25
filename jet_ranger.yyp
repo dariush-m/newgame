@@ -615,6 +615,14 @@
             }
         },
         {
+            "Key": "804992f8-28d5-41c1-8d80-d59c85dbec7b",
+            "Value": {
+                "id": "0b8d9f9e-a771-47f7-acb7-434c0e2bf85d",
+                "resourcePath": "objects\\obj_player_death\\obj_player_death.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8607487a-a7c7-4383-a56f-6c5beb03965e",
             "Value": {
                 "id": "a646b725-a749-45b6-9bd2-3f1c58538845",
@@ -914,7 +922,7 @@
             "Key": "d71fe42a-9753-4e4a-8ca3-dbe7b98fec8e",
             "Value": {
                 "id": "5b7998fa-fd52-4de2-be9e-6d4b66159c9f",
-                "resourcePath": "objects\\obj_bigexploding\\obj_bigexploding.yy",
+                "resourcePath": "objects\\obj_boss1_death\\obj_boss1_death.yy",
                 "resourceType": "GMObject"
             }
         },

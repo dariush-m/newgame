@@ -23,6 +23,6 @@ audio_play_sound(music_victory, 0, 1);
 /// @DnDAction : YoYo Games.Instances.Change_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 466369C0
-/// @DnDArgument : "objind" "obj_bigexploding"
+/// @DnDArgument : "objind" "obj_boss1_death"
 /// @DnDSaveInfo : "objind" "d71fe42a-9753-4e4a-8ca3-dbe7b98fec8e"
-instance_change(obj_bigexploding, true);
+instance_change(obj_boss1_death, true);
