@@ -543,6 +543,14 @@
             }
         },
         {
+            "Key": "740e584c-039a-4828-b72b-06ea2f2dda82",
+            "Value": {
+                "id": "3bead116-9824-4c57-9f08-c34e9480aa97",
+                "resourcePath": "paths\\path_boss_battle\\path_boss_battle.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "7987df5f-9a80-414c-9526-6978c1a0fe9f",
             "Value": {
                 "id": "3c6af8a9-d565-436a-8d9d-31dca507a0f9",
@@ -647,6 +655,14 @@
             }
         },
         {
+            "Key": "970f5576-4e35-4b07-b062-f11fe8d2bb6e",
+            "Value": {
+                "id": "54df46a5-b06a-4f2c-81a3-012f3b1a7c8f",
+                "resourcePath": "paths\\path_boss_entrance\\path_boss_entrance.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "983a7439-c3a9-4857-8a18-a654f6289ce8",
             "Value": {
                 "id": "f2d59b54-51d4-45ca-8917-02c5564ecb04",
@@ -708,6 +724,14 @@
                 "id": "5ff18bde-ef5a-4ae4-b393-2afa07ce3ea2",
                 "resourcePath": "objects\\obj_spawner1\\obj_spawner1.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ac99ef70-fa4d-4630-b8c6-17b79d535a48",
+            "Value": {
+                "id": "57970de9-e3e7-4177-a5aa-d659a666ab44",
+                "resourcePath": "sprites\\spr_boss1_fire\\spr_boss1_fire.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

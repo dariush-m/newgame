@@ -11,5 +11,6 @@ boss = true;
 /// @DnDArgument : "xpos" "room_width+30"
 /// @DnDArgument : "ypos" "room_height/2"
 /// @DnDArgument : "objectid" "obj_boss_1"
+/// @DnDArgument : "layer" ""boss""
 /// @DnDSaveInfo : "objectid" "e1f6e304-331a-46ef-a17b-98b24e2121d3"
-instance_create_layer(room_width+30, room_height/2, "Instances", obj_boss_1);
+instance_create_layer(room_width+30, room_height/2, "boss", obj_boss_1);
