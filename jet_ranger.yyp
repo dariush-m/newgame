@@ -639,6 +639,14 @@
             }
         },
         {
+            "Key": "76c7cc92-84af-4aae-a3d3-baf1cef05d5d",
+            "Value": {
+                "id": "ebbc4e85-9c66-43fe-83d4-47154e76a3cc",
+                "resourcePath": "sounds\\sound_health_up\\sound_health_up.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "7987df5f-9a80-414c-9526-6978c1a0fe9f",
             "Value": {
                 "id": "3c6af8a9-d565-436a-8d9d-31dca507a0f9",
