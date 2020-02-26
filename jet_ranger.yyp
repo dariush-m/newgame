@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "29333822-f01d-4999-8aa6-650a9fb34e0b",
+            "Value": {
+                "id": "5bce1932-b311-46bb-abaf-3cfcab2ba8f3",
+                "resourcePath": "sprites\\spr_willy_idle1\\spr_willy_idle1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2a4d6773-21ac-46fd-8b00-e62507bb00fa",
             "Value": {
                 "id": "b81924f1-b5be-49c6-924c-ed955213332f",
@@ -372,6 +380,14 @@
                 "id": "cf9f5193-a2aa-47a8-b6c9-361924400125",
                 "resourcePath": "sprites\\spr_bigexplosion\\spr_bigexplosion.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "462a5882-a183-4b50-a070-e8179bc5961c",
+            "Value": {
+                "id": "a60cb1b2-3eb7-4cde-816f-816ea8475ecb",
+                "resourcePath": "objects\\obj_lvl2spawner1\\obj_lvl2spawner1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -788,14 +804,6 @@
                 "id": "fe47174a-91a8-41e2-8832-5c733a51f5ae",
                 "resourcePath": "sprites\\spr_squidyboi\\spr_squidyboi.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "9e97a89d-6daf-4197-9414-2a868774ebd9",
-            "Value": {
-                "id": "e3a894f1-d783-4cfb-829c-7a92ada25cde",
-                "resourcePath": "objects\\obj_level_3_ni\\obj_level_3_ni.yy",
-                "resourceType": "GMObject"
             }
         },
         {

@@ -15,19 +15,12 @@ var rand_int = floor(random_range(1, 3 + 1));
 /// @DnDArgument : "value" "1"
 if(rand_int == 1)
 {
-	/// @DnDAction : YoYo Games.Instances.Create_Instance
+	/// @DnDAction : YoYo Games.Instances.Call_User_Event
 	/// @DnDVersion : 1
-	/// @DnDHash : 647015F1
-	/// @DnDApplyTo : a9f38cbd-a308-4799-afec-4f1b31fab321
+	/// @DnDHash : 577C8FB4
 	/// @DnDParent : 516C3DBC
-	/// @DnDArgument : "xpos_relative" "1"
-	/// @DnDArgument : "ypos_relative" "1"
-	/// @DnDArgument : "objectid" "obj_sans"
-	/// @DnDArgument : "layer" ""enemies""
-	/// @DnDSaveInfo : "objectid" "8cc3aba6-f084-4951-aa1c-3cd338cb3ce0"
-	with(obj_spawner1) {
-		instance_create_layer(x + 0, y + 0, "enemies", obj_sans); 
-	}
+	/// @DnDArgument : "event" "1"
+	event_user(1);
 }
 
 /// @DnDAction : YoYo Games.Common.If_Variable
@@ -37,19 +30,12 @@ if(rand_int == 1)
 /// @DnDArgument : "value" "2"
 if(rand_int == 2)
 {
-	/// @DnDAction : YoYo Games.Instances.Create_Instance
+	/// @DnDAction : YoYo Games.Instances.Call_User_Event
 	/// @DnDVersion : 1
-	/// @DnDHash : 3C137976
-	/// @DnDApplyTo : 8df75a7c-c1fa-4db6-8622-dccf6e397411
+	/// @DnDHash : 5C4321C7
 	/// @DnDParent : 3CF11829
-	/// @DnDArgument : "xpos_relative" "1"
-	/// @DnDArgument : "ypos_relative" "1"
-	/// @DnDArgument : "objectid" "obj_sans"
-	/// @DnDArgument : "layer" ""enemies""
-	/// @DnDSaveInfo : "objectid" "8cc3aba6-f084-4951-aa1c-3cd338cb3ce0"
-	with(obj_spawner2) {
-		instance_create_layer(x + 0, y + 0, "enemies", obj_sans); 
-	}
+	/// @DnDArgument : "event" "2"
+	event_user(2);
 }
 
 /// @DnDAction : YoYo Games.Common.If_Variable
@@ -59,19 +45,12 @@ if(rand_int == 2)
 /// @DnDArgument : "value" "3"
 if(rand_int == 3)
 {
-	/// @DnDAction : YoYo Games.Instances.Create_Instance
+	/// @DnDAction : YoYo Games.Instances.Call_User_Event
 	/// @DnDVersion : 1
-	/// @DnDHash : 71EEFE05
-	/// @DnDApplyTo : 8b28bc7e-58cc-4303-a8d9-22f8bc1d60e8
+	/// @DnDHash : 010A7748
 	/// @DnDParent : 31CB0F9A
-	/// @DnDArgument : "xpos_relative" "1"
-	/// @DnDArgument : "ypos_relative" "1"
-	/// @DnDArgument : "objectid" "obj_sans"
-	/// @DnDArgument : "layer" ""enemies""
-	/// @DnDSaveInfo : "objectid" "8cc3aba6-f084-4951-aa1c-3cd338cb3ce0"
-	with(obj_spawner3) {
-		instance_create_layer(x + 0, y + 0, "enemies", obj_sans); 
-	}
+	/// @DnDArgument : "event" "3"
+	event_user(3);
 }
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
