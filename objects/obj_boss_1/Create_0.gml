@@ -1,3 +1,9 @@
+/// @DnDAction : YoYo Games.Instances.Set_Instance_Var
+/// @DnDVersion : 1
+/// @DnDHash : 3DB232DE
+/// @DnDArgument : "value" "room_width+50"
+x = room_width+50;
+
 /// @DnDAction : YoYo Games.Paths.Start_Path
 /// @DnDVersion : 1.1
 /// @DnDHash : 09FAAEA7

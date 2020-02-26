@@ -6,8 +6,15 @@ speed = 0;
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 2BAE80C5
+/// @DnDArgument : "steps" "60*10"
+alarm_set(0, 60*10);
+
+/// @DnDAction : YoYo Games.Instances.Set_Alarm
+/// @DnDVersion : 1
+/// @DnDHash : 598309E9
 /// @DnDArgument : "steps" "60"
-alarm_set(0, 60);
+/// @DnDArgument : "alarm" "1"
+alarm_set(1, 60);
 
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1
