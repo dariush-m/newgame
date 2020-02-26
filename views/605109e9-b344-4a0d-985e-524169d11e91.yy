@@ -11,7 +11,7 @@
         "eb6e0fc8-92e3-433b-a140-0da492aae006",
         "afd8e304-492f-46b5-a23f-e0bb25855b61",
         "192575b9-dcbe-460f-8f2e-c9f91416c1ea",
-        "29333822-f01d-4999-8aa6-650a9fb34e0b"
+        "88a8a02a-3848-4714-a0e9-2c8da69c0f79"
     ],
     "filterType": "GMSprite",
     "folderName": "aliens",
