@@ -95,13 +95,13 @@ if(boss == true)
 		/// @DnDArgument : "x1" "room_width/4"
 		/// @DnDArgument : "y1" "wave(80,40,2,0)"
 		/// @DnDArgument : "x2" "(room_width/4)*3"
-		/// @DnDArgument : "y2" "wave(60,30,2,0)+40"
+		/// @DnDArgument : "y2" "wave(80,40,2,0)+40"
 		/// @DnDArgument : "backcol" "$FF225B23"
 		/// @DnDArgument : "mincol" "$FF0000FF"
 		/// @DnDArgument : "maxcol" "$FF05FF32"
 		with(obj_boss_1) {
 		if(!variable_instance_exists(id, "__dnd_health")) __dnd_health = 0;
-		draw_healthbar(room_width/4, wave(80,40,2,0), (room_width/4)*3, wave(60,30,2,0)+40, __dnd_health, $FF225B23, $FF0000FF & $FFFFFF, $FF05FF32 & $FFFFFF, 0, (($FF225B23>>24) != 0), (($FFFFFFFF>>24) != 0));
+		draw_healthbar(room_width/4, wave(80,40,2,0), (room_width/4)*3, wave(80,40,2,0)+40, __dnd_health, $FF225B23, $FF0000FF & $FFFFFF, $FF05FF32 & $FFFFFF, 0, (($FF225B23>>24) != 0), (($FFFFFFFF>>24) != 0));
 		}
 	}
 
