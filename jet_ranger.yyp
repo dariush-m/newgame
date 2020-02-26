@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "18ede6c2-d621-47fa-ad60-f1a5cdb2380e",
+            "Value": {
+                "id": "4a0b0ba5-40f4-4fb0-b3f5-86308954e856",
+                "resourcePath": "objects\\obj_health_powerup\\obj_health_powerup.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "192575b9-dcbe-460f-8f2e-c9f91416c1ea",
             "Value": {
                 "id": "6c243ebb-ddd7-45a5-89f7-0149bbd738d7",
@@ -804,6 +812,14 @@
                 "id": "06822d7d-1501-4b89-ba63-027febf7eeb4",
                 "resourcePath": "fonts\\font_pixelated\\font_pixelated.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "a2aebe82-4e0b-491c-9bb5-c248bb0e223b",
+            "Value": {
+                "id": "337a38c8-bcb7-4883-8d3f-a5ac153866c4",
+                "resourcePath": "sprites\\spr_powerup\\spr_powerup.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
