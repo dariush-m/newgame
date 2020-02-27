@@ -18,6 +18,12 @@ if(he_dead != undefined)
 		/// @DnDHash : 47E3F9E2
 		/// @DnDParent : 2C74C460
 		room_goto_next();
+	
+		/// @DnDAction : YoYo Games.Audio.Stop_All_Audio
+		/// @DnDVersion : 1
+		/// @DnDHash : 750D64D7
+		/// @DnDParent : 2C74C460
+		audio_stop_all();
 	}
 }
 
@@ -38,4 +44,10 @@ if(l173A1D89_0)
 	/// @DnDArgument : "room" "main_menu"
 	/// @DnDSaveInfo : "room" "393c4210-a7a0-4202-a13c-2f17a04364ec"
 	room_goto(main_menu);
+
+	/// @DnDAction : YoYo Games.Audio.Stop_All_Audio
+	/// @DnDVersion : 1
+	/// @DnDHash : 7A42B88F
+	/// @DnDParent : 173A1D89
+	audio_stop_all();
 }

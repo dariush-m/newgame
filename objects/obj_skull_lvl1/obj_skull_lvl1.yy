@@ -2,7 +2,7 @@
     "id": "8cc3aba6-f084-4951-aa1c-3cd338cb3ce0",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_sans",
+    "name": "obj_skull_lvl1",
     "eventList": [
         {
             "id": "2bf123cf-4318-44f1-b138-a58244856d7e",
@@ -53,6 +53,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "8607487a-a7c7-4383-a56f-6c5beb03965e",
+    "spriteId": "0c79ce9e-0a9f-4f2d-8d42-005cd1f1fc2d",
     "visible": true
 }

@@ -22,11 +22,11 @@ if(rand_int == 1)
 	/// @DnDParent : 516C3DBC
 	/// @DnDArgument : "xpos_relative" "1"
 	/// @DnDArgument : "ypos_relative" "1"
-	/// @DnDArgument : "objectid" "obj_sans"
+	/// @DnDArgument : "objectid" "obj_skull_lvl1"
 	/// @DnDArgument : "layer" ""enemies""
 	/// @DnDSaveInfo : "objectid" "8cc3aba6-f084-4951-aa1c-3cd338cb3ce0"
 	with(obj_lvl1spawner1) {
-		instance_create_layer(x + 0, y + 0, "enemies", obj_sans); 
+		instance_create_layer(x + 0, y + 0, "enemies", obj_skull_lvl1); 
 	}
 }
 
@@ -44,11 +44,11 @@ if(rand_int == 2)
 	/// @DnDParent : 3CF11829
 	/// @DnDArgument : "xpos_relative" "1"
 	/// @DnDArgument : "ypos_relative" "1"
-	/// @DnDArgument : "objectid" "obj_sans"
+	/// @DnDArgument : "objectid" "obj_skull_lvl1"
 	/// @DnDArgument : "layer" ""enemies""
 	/// @DnDSaveInfo : "objectid" "8cc3aba6-f084-4951-aa1c-3cd338cb3ce0"
 	with(obj_lvl1spawner2) {
-		instance_create_layer(x + 0, y + 0, "enemies", obj_sans); 
+		instance_create_layer(x + 0, y + 0, "enemies", obj_skull_lvl1); 
 	}
 }
 
@@ -66,11 +66,11 @@ if(rand_int == 3)
 	/// @DnDParent : 31CB0F9A
 	/// @DnDArgument : "xpos_relative" "1"
 	/// @DnDArgument : "ypos_relative" "1"
-	/// @DnDArgument : "objectid" "obj_sans"
+	/// @DnDArgument : "objectid" "obj_skull_lvl1"
 	/// @DnDArgument : "layer" ""enemies""
 	/// @DnDSaveInfo : "objectid" "8cc3aba6-f084-4951-aa1c-3cd338cb3ce0"
 	with(obj_lvl1spawner3) {
-		instance_create_layer(x + 0, y + 0, "enemies", obj_sans); 
+		instance_create_layer(x + 0, y + 0, "enemies", obj_skull_lvl1); 
 	}
 }
 
