@@ -13,6 +13,6 @@ hit = 0;
 /// @DnDAction : YoYo Games.Instance Variables.Set_Lives
 /// @DnDVersion : 1
 /// @DnDHash : 56F57C48
-/// @DnDArgument : "lives" "5"
+/// @DnDArgument : "lives" "3"
 
-__dnd_lives = real(5);
+__dnd_lives = real(3);

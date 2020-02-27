@@ -84,8 +84,8 @@ if(boss == true)
 		/// @DnDParent : 6756C062
 		/// @DnDArgument : "x" "room_width/2"
 		/// @DnDArgument : "y" "wave(30,10,2,0)"
-		/// @DnDArgument : "caption" ""Galakc The World Eater""
-		draw_text(room_width/2, wave(30,10,2,0), string("Galakc The World Eater") + "");
+		/// @DnDArgument : "caption" ""Galakc, Eater Of Worlds""
+		draw_text(room_width/2, wave(30,10,2,0), string("Galakc, Eater Of Worlds") + "");
 	
 		/// @DnDAction : YoYo Games.Drawing.Draw_Instance_Health
 		/// @DnDVersion : 1

@@ -4,6 +4,12 @@
 /// @DnDArgument : "steps" "60"
 alarm_set(0, 60);
 
+/// @DnDAction : YoYo Games.Instances.Set_Instance_Var
+/// @DnDVersion : 1
+/// @DnDHash : 1E68DD0D
+/// @DnDArgument : "instvar" "11"
+image_index = 0;
+
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1
 /// @DnDHash : 15EB418E
