@@ -2,7 +2,7 @@
     "id": "eb93ff0a-c807-48af-bba3-f68e3fc4df71",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite47",
+    "name": "spr_boss2_death",
     "For3D": false,
     "HTile": false,
     "VTile": false,
