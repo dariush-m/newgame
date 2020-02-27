@@ -810,7 +810,7 @@
             "Key": "9cda141c-4452-47a9-a7f1-808bc05ab226",
             "Value": {
                 "id": "f987f94b-36b9-4dc6-b206-c07c87153c2d",
-                "resourcePath": "sprites\\spr_boss2_death\\spr_boss2_death.yy",
+                "resourcePath": "sprites\\spr_boss2_fire\\spr_boss2_fire.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1172,6 +1172,14 @@
                 "id": "e8cc8b54-27da-4697-b1dd-01ff6eb4ef6b",
                 "resourcePath": "objects\\obj_startscreen_destroy\\obj_startscreen_destroy.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "eb93ff0a-c807-48af-bba3-f68e3fc4df71",
+            "Value": {
+                "id": "40fba50a-c54b-4b54-a6da-cb69a9657586",
+                "resourcePath": "sprites\\sprite47\\sprite47.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
