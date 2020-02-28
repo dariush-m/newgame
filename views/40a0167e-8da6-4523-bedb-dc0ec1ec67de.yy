@@ -10,7 +10,7 @@
         "eb93ff0a-c807-48af-bba3-f68e3fc4df71"
     ],
     "filterType": "GMSprite",
-    "folderName": "boss2",
+    "folderName": "boss3",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

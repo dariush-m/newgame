@@ -14,8 +14,8 @@ audio_play_sound(music_meg, 0, 1);
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 2168C0BC
-/// @DnDArgument : "steps" "60*5"
-alarm_set(0, 60*5);
+/// @DnDArgument : "steps" "60*3"
+alarm_set(0, 60*3);
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
@@ -29,3 +29,10 @@ time_remaining = 120;
 /// @DnDHash : 70BD2309
 /// @DnDArgument : "var" "steps_passed"
 steps_passed = 0;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 7C6C4A34
+/// @DnDArgument : "expr" "4"
+/// @DnDArgument : "var" "max_choices_spawners"
+max_choices_spawners = 4;

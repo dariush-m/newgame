@@ -54,6 +54,22 @@ if(_time == 0)
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
+/// @DnDHash : 549A96C8
+/// @DnDArgument : "var" "time_remaining"
+/// @DnDArgument : "value" "60"
+if(time_remaining == 60)
+{
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 4EDAEC9D
+	/// @DnDParent : 549A96C8
+	/// @DnDArgument : "expr" "5"
+	/// @DnDArgument : "var" "max_choices_spawners"
+	max_choices_spawners = 5;
+}
+
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
 /// @DnDHash : 301A7238
 /// @DnDArgument : "var" "time_remaining"
 /// @DnDArgument : "not" "1"
