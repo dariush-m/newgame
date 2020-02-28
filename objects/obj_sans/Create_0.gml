@@ -10,3 +10,9 @@ __dnd_health = 5;
 /// @DnDHash : 36D07EF1
 /// @DnDArgument : "speed" "5"
 speed = 5;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 4BC5E5CB
+/// @DnDArgument : "var" "flash"
+flash = 0;

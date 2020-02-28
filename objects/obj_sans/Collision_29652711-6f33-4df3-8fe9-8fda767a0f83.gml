@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 32FA0778
+/// @DnDArgument : "expr" "3"
+/// @DnDArgument : "var" "flash"
+flash = 3;
+
 /// @DnDAction : YoYo Games.Instances.Set_Instance_Var
 /// @DnDVersion : 1
 /// @DnDHash : 7542CAEB

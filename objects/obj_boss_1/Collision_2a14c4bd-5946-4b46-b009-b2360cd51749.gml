@@ -4,6 +4,13 @@
 /// @DnDApplyTo : other
 with(other) instance_destroy();
 
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 0E453032
+/// @DnDArgument : "expr" "3"
+/// @DnDArgument : "var" "flash"
+flash = 3;
+
 /// @DnDAction : YoYo Games.Instance Variables.Set_Health
 /// @DnDVersion : 1
 /// @DnDHash : 0DCB758B

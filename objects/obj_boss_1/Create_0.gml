@@ -38,3 +38,9 @@ img_temp = image_index;
 /// @DnDArgument : "health" "100"
 
 __dnd_health = real(100);
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 30DEDEFE
+/// @DnDArgument : "var" "flash"
+flash = 0;
