@@ -1,5 +1,5 @@
 {
-    "id": "462a5882-a183-4b50-a070-e8179bc5961c",
+    "id": "2e36401c-2862-47ae-9dd5-a46977475111",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_lvl2spawner1",
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
-    "visible": true
+    "spriteId": "1da93707-a11f-4cd5-a6da-1b37783b6485",
+    "visible": false
 }

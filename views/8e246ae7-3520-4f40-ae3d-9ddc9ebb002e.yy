@@ -6,9 +6,7 @@
     "children": [
         "f51833a8-977d-4446-ac0e-e92e71b07619",
         "4ba3d5ac-03e1-4812-8352-7f6154730a5d",
-        "4e0fadcd-bcad-41af-a2d1-8b088fcd2b3e",
-        "882f8f99-9a4a-44e4-8eaf-df50cb3a9aed",
-        "2e3baa0d-9693-41d3-8986-788720ee817c"
+        "4e0fadcd-bcad-41af-a2d1-8b088fcd2b3e"
     ],
     "filterType": "GMObject",
     "folderName": "skulls",
