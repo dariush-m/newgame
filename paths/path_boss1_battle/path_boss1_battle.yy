@@ -2,7 +2,7 @@
     "id": "740e584c-039a-4828-b72b-06ea2f2dda82",
     "modelName": "GMPath",
     "mvc": "1.0",
-    "name": "path_boss_battle",
+    "name": "path_boss1_battle",
     "closed": true,
     "hsnap": 0,
     "kind": 0,

@@ -38,11 +38,11 @@ if(pos == 1)
 		/// @DnDVersion : 1.1
 		/// @DnDHash : 35146E6E
 		/// @DnDParent : 1E485A62
-		/// @DnDArgument : "path" "path_boss_battle"
+		/// @DnDArgument : "path" "path_boss1_battle"
 		/// @DnDArgument : "speed" "5"
 		/// @DnDArgument : "atend" "path_action_continue"
 		/// @DnDSaveInfo : "path" "740e584c-039a-4828-b72b-06ea2f2dda82"
-		path_start(path_boss_battle, 5, path_action_continue, false);
+		path_start(path_boss1_battle, 5, path_action_continue, false);
 	
 		/// @DnDAction : YoYo Games.Instances.Set_Sprite
 		/// @DnDVersion : 1
