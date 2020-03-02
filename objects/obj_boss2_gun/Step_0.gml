@@ -223,9 +223,9 @@ if(blaster_spawned == true)
 		/// @DnDVersion : 1
 		/// @DnDHash : 401CDF23
 		/// @DnDParent : 01DFB07A
-		/// @DnDArgument : "steps" "5"
+		/// @DnDArgument : "steps" "1"
 		/// @DnDArgument : "alarm" "4"
-		alarm_set(4, 5);
+		alarm_set(4, 1);
 	}
 
 	/// @DnDAction : YoYo Games.Movement.Set_Speed
