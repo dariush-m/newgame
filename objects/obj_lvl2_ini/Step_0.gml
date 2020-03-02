@@ -84,3 +84,18 @@ if(!(time_remaining == 0))
 	/// @DnDArgument : "var" "steps_passed"
 	steps_passed += +1;
 }
+
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 7E006287
+/// @DnDArgument : "var" "time_remaining"
+/// @DnDArgument : "value" "4"
+if(time_remaining == 4)
+{
+	/// @DnDAction : YoYo Games.Instances.Set_Alarm
+	/// @DnDVersion : 1
+	/// @DnDHash : 2A5A3999
+	/// @DnDParent : 7E006287
+	/// @DnDArgument : "steps" "0"
+	alarm_set(0, 0);
+}

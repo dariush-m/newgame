@@ -8,7 +8,8 @@
         "ee8e7bf8-e7d6-44ad-8e17-ca1cd4c82daa",
         "cdc45d74-699f-47ea-846b-23acff4b82db",
         "621b3ff2-b31f-4f71-8e65-1f37b736a9f2",
-        "7bec509d-981b-4efe-8a91-871432946469"
+        "7bec509d-981b-4efe-8a91-871432946469",
+        "15235e28-0638-4bd5-a751-e677d570d96e"
     ],
     "filterType": "GMSprite",
     "folderName": "boss2",

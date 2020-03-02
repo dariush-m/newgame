@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "15235e28-0638-4bd5-a751-e677d570d96e",
+            "Value": {
+                "id": "6f3db556-8c48-4c4b-a7cb-a04d0fa1df35",
+                "resourcePath": "sprites\\spr_boss2_dead\\spr_boss2_dead.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "18331241-97a6-40b3-9231-b8bcdbc4fb7d",
             "Value": {
                 "id": "936951a0-1ced-4cd9-9732-9a179e4850a7",
@@ -364,6 +372,14 @@
                 "id": "a0831aa2-52e9-43c1-b799-53fb612e2fff",
                 "resourcePath": "views\\38326c47-40b7-440a-acc5-96c71a6e09ae.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3856cd77-02c1-4a68-b06b-de00c25f4e5f",
+            "Value": {
+                "id": "5efecb8a-f639-4659-8a80-4d4e016816e8",
+                "resourcePath": "paths\\path_gun8\\path_gun8.yy",
+                "resourceType": "GMPath"
             }
         },
         {
@@ -735,6 +751,14 @@
             }
         },
         {
+            "Key": "6bc478e6-fcf0-448a-a9db-6004ebbbae8a",
+            "Value": {
+                "id": "687b2139-1e88-4f52-b370-6383c5ffac8b",
+                "resourcePath": "paths\\path_gun3\\path_gun3.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "6c2e02d0-9a33-40f6-b048-b9054731e715",
             "Value": {
                 "id": "c1bb6e86-6bb1-4040-a263-9ec359ba4d76",
@@ -803,6 +827,14 @@
             "Value": {
                 "id": "3bead116-9824-4c57-9f08-c34e9480aa97",
                 "resourcePath": "paths\\path_boss1_battle\\path_boss1_battle.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
+            "Key": "743b29e0-4e5d-4220-a89d-0b83905f0655",
+            "Value": {
+                "id": "a2afc05c-3b50-46c6-a708-5e09a29537e1",
+                "resourcePath": "paths\\path_gun4\\path_gun4.yy",
                 "resourceType": "GMPath"
             }
         },
@@ -1039,11 +1071,27 @@
             }
         },
         {
+            "Key": "a2373eac-9ad0-4cbb-96ab-afe5433aea25",
+            "Value": {
+                "id": "e21b2280-4912-4023-bbfa-7784bac2f11a",
+                "resourcePath": "paths\\path_gun6\\path_gun6.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "a2aebe82-4e0b-491c-9bb5-c248bb0e223b",
             "Value": {
                 "id": "337a38c8-bcb7-4883-8d3f-a5ac153866c4",
                 "resourcePath": "sprites\\spr_powerup\\spr_powerup.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a38b5e7d-8349-4d17-86f1-a701ab023297",
+            "Value": {
+                "id": "94750545-1266-403c-8e8a-2a7b4c8ee059",
+                "resourcePath": "paths\\path_gun7\\path_gun7.yy",
+                "resourceType": "GMPath"
             }
         },
         {
@@ -1055,11 +1103,19 @@
             }
         },
         {
-            "Key": "a6771885-715f-4876-b40f-eef4f4a812d8",
+            "Key": "a5702bb2-7079-4c92-a1d1-5c93d222445c",
             "Value": {
-                "id": "af3177ce-5be9-4dca-9a29-9e4b968206a9",
-                "resourcePath": "paths\\path4\\path4.yy",
+                "id": "56d0d18c-79a4-4d62-9c74-30d7998d0781",
+                "resourcePath": "paths\\path_gun5\\path_gun5.yy",
                 "resourceType": "GMPath"
+            }
+        },
+        {
+            "Key": "a6e4418c-7261-47a7-8565-902937d811c5",
+            "Value": {
+                "id": "9c720d1d-770e-4931-ad87-2ae0040daf5f",
+                "resourcePath": "sounds\\sound_ghaterblaster\\sound_ghaterblaster.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -1124,6 +1180,14 @@
                 "id": "fdea5b20-7a66-4d61-9322-31acdb07ad4e",
                 "resourcePath": "views\\b47a31cb-fc32-4157-bb49-748d71198c18.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b498c5e8-a1dd-445a-a7e3-736e9339f973",
+            "Value": {
+                "id": "b0e7043f-d741-4f0c-bf83-d7a2bacbb305",
+                "resourcePath": "objects\\obj_boss2_death\\obj_boss2_death.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1202,7 +1266,7 @@
             "Key": "c503a496-291c-4800-a08a-d3b15c2d10b5",
             "Value": {
                 "id": "bbdddcf7-4c80-4af6-aafb-52dc9dad5346",
-                "resourcePath": "paths\\path5\\path5.yy",
+                "resourcePath": "paths\\path_gun2\\path_gun2.yy",
                 "resourceType": "GMPath"
             }
         },
