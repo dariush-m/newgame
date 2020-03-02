@@ -48,14 +48,25 @@ if (!audio_is_playing(l7FC11D85_0))
 		var l51807D5A_0 = music_victory;
 		if (!audio_is_playing(l51807D5A_0))
 		{
-			/// @DnDAction : YoYo Games.Audio.Play_Audio
+			/// @DnDAction : YoYo Games.Audio.If_Audio_Playing
 			/// @DnDVersion : 1
-			/// @DnDHash : 5D266363
+			/// @DnDHash : 5BD3A21D
 			/// @DnDParent : 51807D5A
-			/// @DnDArgument : "soundid" "music_lvl3_loop"
-			/// @DnDArgument : "loop" "1"
-			/// @DnDSaveInfo : "soundid" "f1f98cfa-22f5-413a-bd46-20b48b96e83c"
-			audio_play_sound(music_lvl3_loop, 0, 1);
+			/// @DnDArgument : "soundid" "music_game_over"
+			/// @DnDArgument : "not" "1"
+			/// @DnDSaveInfo : "soundid" "acebe6ae-139f-4813-a5c7-65876bdfe484"
+			var l5BD3A21D_0 = music_game_over;
+			if (!audio_is_playing(l5BD3A21D_0))
+			{
+				/// @DnDAction : YoYo Games.Audio.Play_Audio
+				/// @DnDVersion : 1
+				/// @DnDHash : 5D266363
+				/// @DnDParent : 5BD3A21D
+				/// @DnDArgument : "soundid" "music_lvl3_loop"
+				/// @DnDArgument : "loop" "1"
+				/// @DnDSaveInfo : "soundid" "f1f98cfa-22f5-413a-bd46-20b48b96e83c"
+				audio_play_sound(music_lvl3_loop, 0, 1);
+			}
 		}
 	}
 }
@@ -74,14 +85,25 @@ if(temp == 0)
 	/// @DnDArgument : "not" "1"
 	if(!(time_remaining == 0))
 	{
-		/// @DnDAction : YoYo Games.Common.Variable
+		/// @DnDAction : YoYo Games.Instances.If_Instance_Exists
 		/// @DnDVersion : 1
-		/// @DnDHash : 6300CDCA
+		/// @DnDHash : 5E715A20
 		/// @DnDParent : 6F86256F
-		/// @DnDArgument : "expr" "-1"
-		/// @DnDArgument : "expr_relative" "1"
-		/// @DnDArgument : "var" "time_remaining"
-		time_remaining += -1;
+		/// @DnDArgument : "obj" "obj_player"
+		/// @DnDSaveInfo : "obj" "88a673b6-d8e1-42e5-aee9-e21aa64c6392"
+		var l5E715A20_0 = false;
+		l5E715A20_0 = instance_exists(obj_player);
+		if(l5E715A20_0)
+		{
+			/// @DnDAction : YoYo Games.Common.Variable
+			/// @DnDVersion : 1
+			/// @DnDHash : 6300CDCA
+			/// @DnDParent : 5E715A20
+			/// @DnDArgument : "expr" "-1"
+			/// @DnDArgument : "expr_relative" "1"
+			/// @DnDArgument : "var" "time_remaining"
+			time_remaining += -1;
+		}
 	}
 
 	/// @DnDAction : YoYo Games.Common.Else

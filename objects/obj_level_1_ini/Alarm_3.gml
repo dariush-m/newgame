@@ -1,3 +1,27 @@
+/// @DnDAction : YoYo Games.Instances.If_Instance_Exists
+/// @DnDVersion : 1
+/// @DnDHash : 64F30C9F
+/// @DnDArgument : "obj" "obj_player"
+/// @DnDArgument : "not" "1"
+/// @DnDSaveInfo : "obj" "88a673b6-d8e1-42e5-aee9-e21aa64c6392"
+var l64F30C9F_0 = false;
+l64F30C9F_0 = instance_exists(obj_player);
+if(!l64F30C9F_0)
+{
+	/// @DnDAction : YoYo Games.Common.Exit_Event
+	/// @DnDVersion : 1
+	/// @DnDHash : 5BADC4C5
+	/// @DnDParent : 64F30C9F
+	exit;
+
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 01CE1EB5
+	/// @DnDApplyTo : 8cc3aba6-f084-4951-aa1c-3cd338cb3ce0
+	/// @DnDParent : 64F30C9F
+	with(obj_skull_lvl1) instance_destroy();
+}
+
 /// @DnDAction : YoYo Games.Instance Variables.If_Lives
 /// @DnDVersion : 1
 /// @DnDHash : 0F80FB11

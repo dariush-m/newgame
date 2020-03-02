@@ -698,7 +698,7 @@
             "Key": "621b3ff2-b31f-4f71-8e65-1f37b736a9f2",
             "Value": {
                 "id": "b0bfd470-6028-4b7b-bb57-1ece045159b2",
-                "resourcePath": "sprites\\gun_blast\\gun_blast.yy",
+                "resourcePath": "sprites\\spr_gun_blast\\spr_gun_blast.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -859,14 +859,6 @@
             "Value": {
                 "id": "3456594d-dee5-4efe-adba-da12e7fb2626",
                 "resourcePath": "sprites\\spr_bullet_enemy\\spr_bullet_enemy.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "7bec509d-981b-4efe-8a91-871432946469",
-            "Value": {
-                "id": "99cbc77e-e17e-43de-8d85-2386bf19aa97",
-                "resourcePath": "sprites\\gun_blast1\\gun_blast1.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1159,6 +1151,14 @@
             }
         },
         {
+            "Key": "acebe6ae-139f-4813-a5c7-65876bdfe484",
+            "Value": {
+                "id": "f6d49dc6-b52b-45d4-8d46-88874482d467",
+                "resourcePath": "sounds\\music_game_over\\music_game_over.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "afd8e304-492f-46b5-a23f-e0bb25855b61",
             "Value": {
                 "id": "f076dee0-6d95-44ab-aee8-a638ceae24df",
@@ -1307,14 +1307,6 @@
             "Value": {
                 "id": "5d4e7135-bb6a-4432-b9fc-37517c728668",
                 "resourcePath": "sprites\\bg_industrial1\\bg_industrial1.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "cdc45d74-699f-47ea-846b-23acff4b82db",
-            "Value": {
-                "id": "f64b464c-8790-4549-bef8-8e54e7539283",
-                "resourcePath": "sprites\\spr_boss2_gun1\\spr_boss2_gun1.yy",
                 "resourceType": "GMSprite"
             }
         },

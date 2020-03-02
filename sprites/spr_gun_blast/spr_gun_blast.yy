@@ -2,7 +2,7 @@
     "id": "621b3ff2-b31f-4f71-8e65-1f37b736a9f2",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "gun_blast",
+    "name": "spr_gun_blast",
     "For3D": false,
     "HTile": false,
     "VTile": false,
