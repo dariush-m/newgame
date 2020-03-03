@@ -40,5 +40,5 @@ draw_set_valign(fa_top);
 /// @DnDHash : 24442F6C
 /// @DnDArgument : "x" "room_width/2"
 /// @DnDArgument : "y" "(room_height/2)+20"
-/// @DnDArgument : "caption" ""PRESS ENTER TO RETURN TO THE MAIN MENU""
-draw_text(room_width/2, (room_height/2)+20, string("PRESS ENTER TO RETURN TO THE MAIN MENU") + "");
+/// @DnDArgument : "caption" ""PRESS ENTER TO RETRY""
+draw_text(room_width/2, (room_height/2)+20, string("PRESS ENTER TO RETRY") + "");

@@ -32,9 +32,10 @@ if (!audio_is_playing(l7FC11D85_0))
 	/// @DnDVersion : 1
 	/// @DnDHash : 1BF667AA
 	/// @DnDParent : 7FC11D85
-	/// @DnDArgument : "soundid" "music_lvl3_loop"
+	/// @DnDArgument : "soundid" "music_lvl1_loop"
 	/// @DnDArgument : "not" "1"
-	var l1BF667AA_0 = music_lvl3_loop;
+	/// @DnDSaveInfo : "soundid" "f1f98cfa-22f5-413a-bd46-20b48b96e83c"
+	var l1BF667AA_0 = music_lvl1_loop;
 	if (!audio_is_playing(l1BF667AA_0))
 	{
 		/// @DnDAction : YoYo Games.Audio.If_Audio_Playing

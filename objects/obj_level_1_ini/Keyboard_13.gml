@@ -28,13 +28,11 @@ var l39912E27_0 = false;
 l39912E27_0 = instance_exists(obj_player);
 if(!l39912E27_0)
 {
-	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
+	/// @DnDAction : YoYo Games.Rooms.Restart_Room
 	/// @DnDVersion : 1
-	/// @DnDHash : 712BE20A
+	/// @DnDHash : 1AF1753A
 	/// @DnDParent : 39912E27
-	/// @DnDArgument : "room" "main_menu"
-	/// @DnDSaveInfo : "room" "393c4210-a7a0-4202-a13c-2f17a04364ec"
-	room_goto(main_menu);
+	room_restart();
 
 	/// @DnDAction : YoYo Games.Audio.Stop_All_Audio
 	/// @DnDVersion : 1
