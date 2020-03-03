@@ -11,6 +11,13 @@ audio_stop_all();
 /// @DnDSaveInfo : "soundid" "c2133bf6-2439-4d4c-a47a-4968f3618e56"
 audio_play_sound(music_mainmenu, 0, 1);
 
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 533668FA
+/// @DnDArgument : "soundid" "sound_welcome"
+/// @DnDSaveInfo : "soundid" "fbd9ced6-f22b-4f0c-91f0-e5380f943f2a"
+audio_play_sound(sound_welcome, 0, 0);
+
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 29529BEB

@@ -6,10 +6,10 @@ audio_stop_all();
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1
 /// @DnDHash : 30C2E5CF
-/// @DnDArgument : "soundid" "music_meg"
+/// @DnDArgument : "soundid" "music_lvl2"
 /// @DnDArgument : "loop" "1"
 /// @DnDSaveInfo : "soundid" "18331241-97a6-40b3-9231-b8bcdbc4fb7d"
-audio_play_sound(music_meg, 0, 1);
+audio_play_sound(music_lvl2, 0, 1);
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1

@@ -102,6 +102,6 @@ audio_stop_sound(music_mainmenu);
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1
 /// @DnDHash : 6DD97788
-/// @DnDArgument : "soundid" "music_lvl3_intro"
+/// @DnDArgument : "soundid" "music_lvl1_intro"
 /// @DnDSaveInfo : "soundid" "2b4311f8-62c1-4bfd-910b-8dbed841ca00"
-audio_play_sound(music_lvl3_intro, 0, 0);
+audio_play_sound(music_lvl1_intro, 0, 0);

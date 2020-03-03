@@ -210,7 +210,7 @@
             "Key": "18331241-97a6-40b3-9231-b8bcdbc4fb7d",
             "Value": {
                 "id": "936951a0-1ced-4cd9-9732-9a179e4850a7",
-                "resourcePath": "sounds\\music_meg\\music_meg.yy",
+                "resourcePath": "sounds\\music_lvl2\\music_lvl2.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -330,7 +330,7 @@
             "Key": "2b4311f8-62c1-4bfd-910b-8dbed841ca00",
             "Value": {
                 "id": "ceded144-98ae-4d4e-bc2d-abb332058682",
-                "resourcePath": "sounds\\music_lvl3_intro\\music_lvl3_intro.yy",
+                "resourcePath": "sounds\\music_lvl1_intro\\music_lvl1_intro.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -460,6 +460,14 @@
                 "id": "a550b472-ad59-4002-873c-fde0b13657f0",
                 "resourcePath": "views\\3e782e41-c6d2-49fe-85c1-f6bdf46b0aae.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3e8e6cc3-e089-4eab-a7c3-c046718b0fbf",
+            "Value": {
+                "id": "ae0d5d98-49d4-4a56-9e5b-7dd751709c9f",
+                "resourcePath": "sprites\\spr_lvl2_select\\spr_lvl2_select.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -655,6 +663,14 @@
             }
         },
         {
+            "Key": "59fff0ee-8d09-4c62-be72-e2095b302d93",
+            "Value": {
+                "id": "1b3abb8f-7c6d-45a0-bd18-1fb74a62b17a",
+                "resourcePath": "sprites\\spr_lvl1_select\\spr_lvl1_select.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5a64fc55-1726-4a35-a636-28aa8fc2bfc4",
             "Value": {
                 "id": "68ee38ec-23a0-4e1f-9912-da23d41c36ed",
@@ -826,7 +842,7 @@
             "Key": "6c2e02d0-9a33-40f6-b048-b9054731e715",
             "Value": {
                 "id": "c1bb6e86-6bb1-4040-a263-9ec359ba4d76",
-                "resourcePath": "sounds\\music_lvl1\\music_lvl1.yy",
+                "resourcePath": "sounds\\music_OLDlvl1\\music_OLDlvl1.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -959,6 +975,14 @@
             }
         },
         {
+            "Key": "822beb2f-9df9-43d1-a209-4b29a2e9b800",
+            "Value": {
+                "id": "a73fea0a-82e9-4d18-ba98-f4123b3cd1fc",
+                "resourcePath": "sounds\\sound_announcer2\\sound_announcer2.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "834e4fa8-b572-4c67-bc66-5220d9839215",
             "Value": {
                 "id": "14e64a57-93dd-4f6e-9587-98f51f9404ad",
@@ -980,6 +1004,14 @@
                 "id": "a646b725-a749-45b6-9bd2-3f1c58538845",
                 "resourcePath": "sprites\\spr_skull_sans\\spr_skull_sans.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "87b1e38d-9c20-4928-8fbf-5fda5e745663",
+            "Value": {
+                "id": "ef42e2e3-11e7-44ef-a200-628fe9f0d93c",
+                "resourcePath": "sounds\\sound_announcer1\\sound_announcer1.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -1108,6 +1140,14 @@
                 "id": "07090005-dd82-4068-a378-282f93fd6119",
                 "resourcePath": "objects\\obj_lvl2spawner4\\obj_lvl2spawner4.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9a23f129-dab0-49d5-8fec-994b436a5a7f",
+            "Value": {
+                "id": "426e41c1-3e77-4a57-b46b-73f002f14ff6",
+                "resourcePath": "rooms\\lvl_select\\lvl_select.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -1706,7 +1746,7 @@
             "Key": "f1f98cfa-22f5-413a-bd46-20b48b96e83c",
             "Value": {
                 "id": "32c81c99-8df2-4c7c-a653-7d0089088920",
-                "resourcePath": "sounds\\music_lvl3_loop\\music_lvl3_loop.yy",
+                "resourcePath": "sounds\\music_lvl1_loop\\music_lvl1_loop.yy",
                 "resourceType": "GMSound"
             }
         },
