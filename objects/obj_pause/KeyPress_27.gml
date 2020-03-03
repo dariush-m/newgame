@@ -57,10 +57,10 @@ if(!(current_room == main_menu))
 		/// @DnDParent : 1C9926B9
 		/// @DnDArgument : "xpos" "room_width/2"
 		/// @DnDArgument : "ypos" "room_height*2/3"
-		/// @DnDArgument : "objectid" "obj_buttons"
+		/// @DnDArgument : "objectid" "obj_buttons_pause"
 		/// @DnDArgument : "layer" ""paused""
-		/// @DnDSaveInfo : "objectid" "46b1cad1-03fa-4787-9d0a-762cb11817dd"
-		instance_create_layer(room_width/2, room_height*2/3, "paused", obj_buttons);
+		/// @DnDSaveInfo : "objectid" "d9f03619-313f-45d2-9751-8636bb1d056f"
+		instance_create_layer(room_width/2, room_height*2/3, "paused", obj_buttons_pause);
 	
 		/// @DnDAction : YoYo Games.Loops.For_Loop
 		/// @DnDVersion : 1
