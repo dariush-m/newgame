@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Audio.Stop_Audio
 /// @DnDVersion : 1
 /// @DnDHash : 4C016690
-/// @DnDArgument : "soundid" "music_lvl3_loop"
+/// @DnDArgument : "soundid" "music_lvl1_loop"
 /// @DnDSaveInfo : "soundid" "f1f98cfa-22f5-413a-bd46-20b48b96e83c"
-audio_stop_sound(music_lvl3_loop);
+audio_stop_sound(music_lvl1_loop);
 
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1

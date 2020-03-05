@@ -20,22 +20,8 @@ global.y_boss = 0;
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 24681D24
-/// @DnDArgument : "steps" "60"
-alarm_set(0, 60);
-
-/// @DnDAction : YoYo Games.Instances.Set_Alarm
-/// @DnDVersion : 1
-/// @DnDHash : 5A808858
-/// @DnDArgument : "steps" "3600"
-/// @DnDArgument : "alarm" "1"
-alarm_set(1, 3600);
-
-/// @DnDAction : YoYo Games.Instances.Set_Alarm
-/// @DnDVersion : 1
-/// @DnDHash : 3B9F12B6
-/// @DnDArgument : "steps" "60*15"
-/// @DnDArgument : "alarm" "3"
-alarm_set(3, 60*15);
+/// @DnDArgument : "steps" "2"
+alarm_set(0, 2);
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
@@ -43,6 +29,20 @@ alarm_set(3, 60*15);
 /// @DnDArgument : "expr" "60"
 /// @DnDArgument : "var" "time_remaining"
 time_remaining = 60;
+
+/// @DnDAction : YoYo Games.Instances.Set_Alarm
+/// @DnDVersion : 1
+/// @DnDHash : 5A808858
+/// @DnDArgument : "steps" "60*time_remaining"
+/// @DnDArgument : "alarm" "1"
+alarm_set(1, 60*time_remaining);
+
+/// @DnDAction : YoYo Games.Instances.Set_Alarm
+/// @DnDVersion : 1
+/// @DnDHash : 3B9F12B6
+/// @DnDArgument : "steps" "60*15"
+/// @DnDArgument : "alarm" "3"
+alarm_set(3, 60*15);
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
